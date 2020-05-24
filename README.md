@@ -125,7 +125,7 @@ GLuint _textureId1; //The id of the texture
  glmScale
  
  
- ```
+ ```ruby
  
 void Draw_cube(GLdouble width, GLdouble height, GLdouble depth) // Draw function
 {
@@ -184,7 +184,7 @@ void drawmodel3(void)
  
  
  
- ```
+ ```ruby
  //Initializes 3D rendering
 void initRendering() {
      	 Image* image = loadBMP("image2.bmp");
@@ -222,7 +222,7 @@ void initRendering() {
  # Draw function (Part2)
 we will draw and  simulate the  full body joints movement by applying transformations (translation,rotation,scaling ),
   
-  ```
+  ```ruby
   void draw_right_arm(void)
 {
    glPushMatrix();

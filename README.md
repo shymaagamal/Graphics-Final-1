@@ -11,7 +11,7 @@
 
 # Initializing Variables:
 Here we determine our variables and load our objects(flower,table,stool) and we give the objecs variavle (q,w,e) to make the robot move ad interact with these objects.comes later on the code,and give initiaizations values to the camera 
-```
+```ruby
 #include <math.h>
 #include <GL/glut.h>
 #include "glm.h"

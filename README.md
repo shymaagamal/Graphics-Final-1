@@ -96,9 +96,7 @@ GLfloat shininess[] = {100.0 };
 
  
  
- ```
- ruby
- 
+ ```ruby
  //Makes the image into a texture, and returns the id of the texture
 GLuint loadTexture(Image* image) {
       GLuint textureId;
@@ -119,6 +117,7 @@ GLuint loadTexture(Image* image) {
 
 GLuint _textureId; //The id of the texture
 GLuint _textureId1; //The id of the texture
+
  ```
  # Draw Function (Part1):
  Here we import our three objects and draw them and assigining their scale and position using these functins:

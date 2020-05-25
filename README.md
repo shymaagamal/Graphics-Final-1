@@ -484,11 +484,8 @@ void draw_left_leg(void)
  ![Grey Background](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/ardromady.jpeg)
  **Grey Background**
 
-# Camera code:
-``` ruby
- 
-```
- 
+# Animation :
+ ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/animation1_p.gif)
  
  
  

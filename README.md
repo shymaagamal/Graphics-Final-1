@@ -487,6 +487,10 @@ void draw_left_leg(void)
 # Animation :
  ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/animation1_p.gif)
  
+ ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/anaimation2_L.gif)
+ 
+ ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/animation3_M.gif)
+ 
  
  
  

@@ -485,11 +485,15 @@ void draw_left_leg(void)
  **Grey Background**
 
 # Animation :
+## we run animation using keyboard buttons ==> PgDn
+### -p:First motion(penguin dance)
  ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/animation1_p.gif)
- 
+### -l:Second motion(sports activities)
  ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/anaimation2_L.gif)
- 
+### -m: interaction with the vase  
  ![](https://raw.githubusercontent.com/Sondo0sMohamed/Graphics-Final-1/master/animation/animation3_M.gif)
+>Dont prtss two key with the same time ,let each animation take a time to do its function  
+ 
  
  
  
